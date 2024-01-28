@@ -11,5 +11,5 @@ Actionable Insights and Recommendations: End goal is to share valuable
 insights and actionable information that can drive strategic decision-making and
 support the supermarket's goals for growth, efficiency, and customer satisfaction
 
-learning 
+learning :
 Incorporated data analysis techniques, specializing in analysis, to deliver valuable insights, accurate sales insights, and interactive dashboard creation, driving business success.
